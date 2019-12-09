@@ -1,4 +1,4 @@
-package com.cursor.hw3;
+package com.cursor.hw3.сircle;
 
 public class Circle {
 
